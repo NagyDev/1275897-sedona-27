@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Имре Надь](https://up.htmlacademy.ru/htmlcss/27/user/1275897).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Островский] (https://htmlacademy.ru/profile/grandmaus).
 
 ---
 
